@@ -1,5 +1,7 @@
 # Hi, I'm Christian 👋  
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3B88C3&width=435&lines=Full+Stack+Developer;Engineering+Student;Passionate+about+Technology)
+
 Welcome to my GitHub profile!  
 I'm a passionate **Fullstack Developer** who loves crafting modern, efficient, and user-friendly web applications. Learning and innovation are at the core of my journey, and I strive to explore new technologies every day.
 
